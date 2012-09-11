@@ -10,7 +10,7 @@ package com.example.mysecondapp;
 public class Krock {
 
 	
-	public void test(int christerparam) {
+	public void test(String robinparam) {
 		
 	}
 }
