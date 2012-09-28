@@ -12,8 +12,8 @@ public class Krock {
 
 	
 	public void test(long nypara) {}
-}
-=======
+};
+
 /**
  * 
  */
